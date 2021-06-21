@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0,1 nohup python -u train.py > logs/train.log &
